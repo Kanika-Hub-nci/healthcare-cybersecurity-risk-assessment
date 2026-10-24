@@ -105,6 +105,20 @@ The scenario illustrates why regulatory communication closure does not automatic
 - [Article 34 Individual Communication](MediNova_GDPR_Article34_Individual_Communication_Report.md)
 - [Post-Incident Governance and Assurance](MediNova_GDPR_Breach_Closure_Post_Incident_Assurance_Report.md)
 
+## Featured Case Study — Privacy & AI Governance
+
+### AI-Powered Patient Triage Assistant
+
+An independent educational simulation exploring how a junior privacy and AI governance consultant could scope an AI healthcare use case before launch.
+
+**Current deliverables:**
+- [Project Brief — AI Patient Triage Assistant](Privacy_AI_Governance/00_Project_Brief_AI_Patient_Triage.md)
+- [Client Discovery and Scoping Report](Privacy_AI_Governance/01_Client_Discovery_and_Scoping_Report.md)
+
+**Planned next:** DPIA screening and risk assessment, necessity and proportionality, GDPR lawful-basis analysis, AI governance assessment, remediation tracker, and executive recommendations.
+
+The scenario uses fictional assumptions only. It is not a real client engagement, legal advice, clinical safety assessment, completed statutory DPIA, or proof of GDPR/EU AI Act compliance.
+
 ## Risk Management and Reporting Artifacts
 
 The repository also contains practical spreadsheet exercises:
